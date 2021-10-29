@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey, I'm \</MICO\>!
+<ul>
+  <li>My Known Languages: JS, Python, HTML, CSS</li>
+  <li>Currently learning C++</li>
+</ul>
 
-<!--
-**itsnotrin/itsnotrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials
+<a href="https://steamcommunity.com/profiles/76561199198243507">
+  <img align="left" alt="Steam" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
+</a>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<a href="https://github.com/DEV-MICO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnotrin&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/DEV-MICO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnotrin&theme=github_dark" />
+</a>
