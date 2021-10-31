@@ -1,4 +1,4 @@
-## Hey, I'm \</MICO\>!
+## Hey, I'm Mr Rin!
 <ul>
   <li>My Known Languages: JS, Python, HTML, CSS</li>
   <li>Currently learning C++</li>
