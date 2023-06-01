@@ -1,6 +1,6 @@
 ## Hey there, I'm Mr Rin!
 <ul>
-  <li>The languages that I currently know consist of the following: JavaScript, Python, Html and CSS.</li>
+  <li>The languages that I currently know consist of the following: JavaScript, Python, GoLang, Html and CSS.</li>
   <li>I'm currently in the process of learning GoLang as the speed benefits and the overall language intrigue me!</li>
 </ul>
 
